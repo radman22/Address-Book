@@ -1,0 +1,26 @@
+{
+  "name": "addressbooke2e",
+  "version": "1.0.0",
+  "description": "A sample e2e test automation frameowrk for coyo task on address book application ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radman22/Address-Book.git"
+  },
+  "keywords": [
+    "Test",
+    "Automation"
+  ],
+  "author": "Radman Sheikh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radman22/Address-Book/issues"
+  },
+  "homepage": "https://github.com/radman22/Address-Book#readme",
+  "devDependencies": {
+    "cypress": "^4.1.0"
+  }
+}
