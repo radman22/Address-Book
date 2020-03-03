@@ -1,0 +1,5 @@
+{
+    "HOME_URL": "http://a.testaddressbook.com/",
+    "SIGNUP_URL":"http://a.testaddressbook.com/sign_up",
+    "SIGNIN_URL":"http://a.testaddressbook.com/sign_in"      
+  }
